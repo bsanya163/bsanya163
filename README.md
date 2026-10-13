@@ -26,7 +26,7 @@ A PowerShell project focused on automating Windows endpoint inventory, disk-capa
 - Implemented configurable disk-space thresholds and service-status auditing.
 - Developed timestamped logging, CSV reporting, and an opt-in service-remediation workflow.
 
-🔗 [View EndpointOps Repository](https://github.com/YOUR-USERNAME/EndpointOps)
+🔗 [View EndpointOps Repository](https://github.com/bsanya163/EndpointOps)
 
 ### Windows Infrastructure & Identity Lab
 A hands-on learning environment for exploring Windows Server, Active Directory, identity administration, and hybrid Microsoft identity concepts.
