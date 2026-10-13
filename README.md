@@ -1,54 +1,61 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/bsanya163/bsanya163/">System Administration</a>, <a href="https://www.linkedin.com/in/briansanyaolu/">Identity Access Management</a></h1>
+# Hi, I'm Brian 👋
 
-<h2>👨‍💻 System Adminstration Projects:</h2>
+### IT Systems Engineer | Microsoft 365 | Windows Infrastructure | Automation
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+I'm an IT professional focused on **Windows infrastructure, Microsoft cloud technologies, identity and access management, and endpoint engineering**. I enjoy troubleshooting complex technical issues, identifying infrastructure problems, and developing automation to improve reliability, security, and operational efficiency.
 
-<h2>📺 Popular YouTube Videos</h2>
+My experience spans enterprise IT support, Microsoft 365 administration, Active Directory, Entra ID, endpoint management, and security-focused troubleshooting. I'm actively expanding my engineering skill set through hands-on projects involving PowerShell, Windows Server, cloud identity, and infrastructure automation.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## 🛠️ Technical Skills
 
-<h2> 🤳 Connect with me:</h2>
+- **Microsoft & Identity:** Microsoft 365, Microsoft Entra ID, Active Directory, MFA, Conditional Access
+- **Windows Infrastructure:** Windows 10/11, Windows Server, Group Policy fundamentals, system troubleshooting
+- **Endpoint Management:** Microsoft Intune, Windows Autopilot concepts, endpoint configuration and lifecycle management
+- **Automation & Scripting:** PowerShell, system inventory, health checks, automated reporting
+- **IT Operations:** Incident investigation, root-cause analysis, change management, documentation
+- **Security:** Endpoint security fundamentals, access controls, sign-in log analysis, security-focused troubleshooting
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🚀 Featured Projects
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### EndpointOps — Windows Endpoint Health & Automation Toolkit
+A PowerShell project focused on automating Windows endpoint inventory, disk-capacity monitoring, service health checks, and operational reporting.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technologies:** PowerShell, Windows CIM/WMI, CSV reporting
 
-Here are some ideas to get you started:
+- Automated collection of Windows hardware and operating system information.
+- Implemented configurable disk-space thresholds and service-status auditing.
+- Developed timestamped logging, CSV reporting, and an opt-in service-remediation workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [View EndpointOps Repository](https://github.com/YOUR-USERNAME/EndpointOps)
+
+### Windows Infrastructure & Identity Lab
+A hands-on learning environment for exploring Windows Server, Active Directory, identity administration, and hybrid Microsoft identity concepts.
+
+**Technologies:** Windows Server, Active Directory, Microsoft Entra ID
+
+## 📚 Current Learning Focus
+
+- PowerShell automation for Windows infrastructure
+- Microsoft Entra ID and identity lifecycle management
+- Modern endpoint management and device compliance
+- Windows infrastructure modernization
+- Cloud administration and infrastructure as code
+
+## 🎯 Career Interests
+
+I'm interested in opportunities involving:
+
+- Systems and Infrastructure Engineering
+- Windows Endpoint Engineering
+- Microsoft 365 and Modern Workplace Engineering
+- Identity and Access Management (IAM)
+- Cloud Infrastructure and Automation
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Explore My LinkedIn Profile](https://www.linkedin.com/in/brian-sanyaolu-436438165/)
+- **GitHub:** [Explore My Projects](https://github.com/bsanya163)
+
+---
+
+*Building, automating, troubleshooting, and continuously improving enterprise IT infrastructure.*
