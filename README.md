@@ -8,7 +8,7 @@ My experience spans enterprise IT support, Microsoft 365 administration, Active 
 
 ## 🛠️ Technical Skills
 
-- **Microsoft & Identity:** Microsoft 365, Microsoft Entra ID, Active Directory, MFA, Conditional Access
+- **Microsoft & Identity:** Azure, Microsoft 365, Microsoft Entra ID, Active Directory, MFA, Conditional Access
 - **Windows Infrastructure:** Windows 10/11, Windows Server, Group Policy fundamentals, system troubleshooting
 - **Endpoint Management:** Microsoft Intune, Windows Autopilot concepts, endpoint configuration and lifecycle management
 - **Automation & Scripting:** PowerShell, system inventory, health checks, automated reporting
